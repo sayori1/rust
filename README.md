@@ -1,2 +1,2 @@
 # rust
-just my useless rust programs.
+just my useless rust programs..
